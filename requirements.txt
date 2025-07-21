@@ -1,0 +1,12 @@
+# Data manipulation & EDA
+pandas
+numpy
+matplotlib
+seaborn
+
+# Modeling
+scikit-learn
+xgboost
+
+# Utilities
+jupyterlab
